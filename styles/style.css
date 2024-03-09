@@ -451,9 +451,6 @@ footer .table .cell:nth-child(2) a {
 
 
 @media screen and (max-width: 770px) {
-    body {
-        font-size: 90%;
-    }
 
     #main .adaptation_mobile {
         height: 400px;
