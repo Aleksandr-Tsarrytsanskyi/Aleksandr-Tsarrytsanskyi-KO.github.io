@@ -573,9 +573,6 @@ footer .table .cell:nth-child(2) a {
             margin-top: 15px;
         }
 
-        footer ul {
-            margin-right: 0;
-            }
      }
 
      @media screen and (max-width: 375px) {
