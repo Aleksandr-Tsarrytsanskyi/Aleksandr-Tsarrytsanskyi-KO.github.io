@@ -584,9 +584,6 @@ footer .table .cell:nth-child(2) a {
      }
 
      @media screen and (max-width: 375px) {
-        body {
-            font-size: 70%;
-        }
         footer .table  {
             width: 300px;
         }
