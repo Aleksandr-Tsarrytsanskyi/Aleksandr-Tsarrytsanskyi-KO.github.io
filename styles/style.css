@@ -550,9 +550,6 @@ footer .table .cell:nth-child(2) a {
 
 
     @media screen and (max-width: 430px) {
-        body {
-            font-size: 80%;
-        }
         #price .bg {
             height: 70px;
         }
