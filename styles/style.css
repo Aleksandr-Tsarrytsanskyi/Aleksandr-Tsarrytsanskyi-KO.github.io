@@ -445,10 +445,10 @@ footer .table .cell:nth-child(2) a {
         display: none;
     } */
 
-    #main .adaptation_mobile {
-        height: 200px ;
-        width: 532px ;
-    }
+    /* #main .adaptation_mobile {
+        height: 310px ;
+        width: 385px ;
+    } */
 
     #active_button {
         opacity: 1 !important; 
@@ -551,17 +551,13 @@ footer .table .cell:nth-child(2) a {
     
 }
     @media screen and (max-width: 540px) {
-        #main .adaptation_mobile {
-            height: 460px;
-            width: 190px;
-        }
 
         #main .table p {
-            font-size: 110%;
+            font-size: 110% !important;
         }
 
         #main .size {
-            font-size: 120%;
+            font-size: 120% !important; 
         }
     }
     @media screen and (max-width: 430px) {
