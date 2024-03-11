@@ -52,7 +52,7 @@ p, h3, h1, h2, h4 {
 #active_button span {
     display: block;
     width: 30px;
-    border: 2px solid #d30505;
+    border: 2px solid white;
     margin: auto;
     margin-bottom: 4px;
 }
