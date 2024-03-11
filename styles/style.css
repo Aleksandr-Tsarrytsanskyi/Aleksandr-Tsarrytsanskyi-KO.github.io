@@ -44,7 +44,7 @@ p, h3, h1, h2, h4 {
 }
 
 #active_button  {
-    opacity: 0 !important;
+    display: none;
     cursor: pointer;
     margin: auto;
 }
@@ -451,7 +451,7 @@ footer .table .cell:nth-child(2) a {
     } */
 
     #active_button {
-        opacity: 1 !important; 
+        display: block;
     }
 
     #topmenu {
