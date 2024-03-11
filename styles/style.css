@@ -440,40 +440,15 @@ footer .table .cell:nth-child(2) a {
     
 }
 
-
-@media screen and (max-width: 912px) {
-    
-    footer .table {
-        padding-top: 40px;
-    }
-}
-
-
-
-@media screen and (max-width: 770px) {
-
-    #main .adaptation_mobile {
-        height: 400px;
-    }
-}
-
-@media screen and (max-width: 1235px) {
-    
-    footer ul {
-        background: none;
-    }
-
-    footer ul li {
-        float: none;
-        margin-left: 0;
-        text-align: left;
-    }
-    
-}
 @media screen and (max-width: 940px) {
     /* #topmenu {
         display: none;
     } */
+
+    #main .adaptation_mobile {
+        height: 200px ;
+        width: 532px ;
+    }
 
     #active_button {
         opacity: 1 !important; 
@@ -544,8 +519,51 @@ footer .table .cell:nth-child(2) a {
     .fade_oaut {
         display: none;
     }
+}
+
+@media screen and (max-width: 912px) {
+    
+    footer .table {
+        padding-top: 40px;
+    }
+}
 
 
+
+@media screen and (max-width: 770px) {
+
+    #main .adaptation_mobile {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 1235px) {
+    
+    footer ul {
+        background: none;
+    }
+
+    footer ul li {
+        float: none;
+        margin-left: 0;
+        text-align: left;
+    }
+    
+}
+    @media screen and (max-width: 540px) {
+        #main .adaptation_mobile {
+            height: 460px;
+            width: 190px;
+        }
+
+        #main .table p {
+            font-size: 110%;
+        }
+
+        #main .size {
+            font-size: 120%;
+        }
+    }
     @media screen and (max-width: 430px) {
         #price .bg {
             height: 70px;
@@ -589,4 +607,3 @@ footer .table .cell:nth-child(2) a {
             margin: 0 15px ;
         }
      }
-}
