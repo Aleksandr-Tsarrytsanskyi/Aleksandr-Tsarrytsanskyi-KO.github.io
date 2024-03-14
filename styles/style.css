@@ -49,8 +49,7 @@ p, h3, h1, h2, h4 {
     margin: auto;
 }
 
-#active_button span {
-    display: block;
+#active_button div {
     width: 30px;
     border: 2px solid #fff;
     margin: auto;
