@@ -75,6 +75,7 @@ header .left a {
 }
 
 header .left .logo:hover {
+    color: #161f55;
     text-decoration: underline;
 }
 
