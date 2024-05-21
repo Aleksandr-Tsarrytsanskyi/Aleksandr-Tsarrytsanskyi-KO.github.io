@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+RewriteCond %{HTTP_HOST} ^www\.alex.pp.ua/\.ru$ [NC]
+RewriteRule ^(.*)$ http://alex.pp.ua/$1 [R=301,L]
+ErrorDocument 404 http://alex.pp.ua/error/404.html
