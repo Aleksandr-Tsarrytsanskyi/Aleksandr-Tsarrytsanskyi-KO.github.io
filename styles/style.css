@@ -306,6 +306,7 @@ footer .table .cell:nth-child(2) a {
 #main .title_price {
     font-size: 150%;
     font-weight: bold;
+    margin-bottom: 10px;
 }
 
 #main .bg:hover {
