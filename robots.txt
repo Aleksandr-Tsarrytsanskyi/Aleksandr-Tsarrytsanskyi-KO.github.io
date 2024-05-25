@@ -1,0 +1,2 @@
+Use-agent: *
+Sitemap: http://alex.pp.ua/sitemap.xml
